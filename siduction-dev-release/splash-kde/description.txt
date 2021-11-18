@@ -1,0 +1,16 @@
+#Name=siduction-ksplash dev
+#Author=siduction art team
+#Copyright=CC-BY-SA 2012
+#Screenshot=Preview.png
+
+SCALE ON
+BACKGROUND_IMAGE 0 0 background.png
+WAIT_STATE kded
+IMAGE_REL CC -540 130 CC 1.png
+WAIT_STATE kcminit
+IMAGE_REL CC -180 130 CC 2.png
+WAIT_STATE wm
+IMAGE_REL CC 180 130 CC 3.png
+WAIT_STATE desktop
+IMAGE_REL CC 500 130 CC 4.png
+WAIT_STATE ready

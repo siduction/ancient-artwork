@@ -1,0 +1,8 @@
+[KSplash Theme: siduction-desperado]
+# Theme behaviour settings.
+Engine = KSplashX
+Greeter=siduction-desperado.xml
+Name=siduction-ksplash desperado
+Author=siduction art team
+Copyright=CC-BY-SA 3.0 2012
+Screenshot=Preview.png

@@ -1,0 +1,16 @@
+#Name=siduction-ksplash desperado
+#Author=siduction art team
+#Copyright=CC-BY-SA 2012
+#Screenshot=Preview.png
+
+SCALE ON
+BACKGROUND_IMAGE 0 0 background.png
+WAIT_STATE kded
+IMAGE_REL CC 45 -45 CC 1.png
+WAIT_STATE kcminit
+IMAGE_REL CC -200 65 CC 2.png
+WAIT_STATE wm
+IMAGE_REL CC 0 180 CC 3.png
+WAIT_STATE desktop
+IMAGE_REL CC -400 20 CC 4.png
+WAIT_STATE ready

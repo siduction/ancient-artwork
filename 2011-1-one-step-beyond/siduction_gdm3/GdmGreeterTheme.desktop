@@ -1,0 +1,11 @@
+
+[GdmGreeterTheme]
+Greeter=onestepbeyond.xml
+Name=siduction-onestepbeyond
+Description=siduction onestepbeyond GDM Theme
+Author=siduction art team
+Copyright=cc-by-sa 3.0
+Screenshot=screenshot.png
+
+[Desktop Entry]
+Name=GdmGreeterTheme.desktop

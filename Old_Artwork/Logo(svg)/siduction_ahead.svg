@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.49+devel r"
+   sodipodi:docname="Zeichnung siduction.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend"
+       style="overflow:visible;">
+      <path
+         id="path3982"
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;">
+      <path
+         id="path3976"
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path3958"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3890">
+      <stop
+         style="stop-color:#e8e100;stop-opacity:1;"
+         offset="0"
+         id="stop3892" />
+      <stop
+         style="stop-color:#e8e100;stop-opacity:0;"
+         offset="1"
+         id="stop3894" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3890"
+       id="radialGradient3917"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.7514451,0,0,1.4999999,-148.69735,-161.09178)"
+       cx="246.78571"
+       cy="268.61219"
+       fx="246.78571"
+       fy="268.61219"
+       r="36.07143" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="413.23726"
+     inkscape:cy="787.30143"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1767"
+     inkscape:window-height="1030"
+     inkscape:window-x="67"
+     inkscape:window-y="80"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#717171;fill-opacity:1;stroke:none"
+       id="rect3933"
+       width="538.57147"
+       height="425.71429"
+       x="108.57143"
+       y="32.362179"
+       rx="14.053577"
+       inkscape:export-filename="/home/xweber/daten/siduction.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       style="fill:#e88600;fill-opacity:1;stroke:none"
+       id="rect3088"
+       width="253.54829"
+       height="253.54829"
+       x="313.80746"
+       y="-220.56326"
+       ry="6.0609155"
+       transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
+       inkscape:export-filename="/home/xweber/daten/siduction.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:url(#radialGradient3917);fill-opacity:1;stroke:none"
+       d="m 220.35714,187.71935 126.35425,0 0,108.21428 -126.35425,0 z"
+       id="rect3888"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/xweber/daten/siduction.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       transform="matrix(1.4110507,0,0,1.4110507,-32.407026,-96.070967)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       id="flowRoot3880"
+       inkscape:export-filename="/home/xweber/daten/siduction.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         d="m 213.29297,230.33481 0,5.3125 q -2.2461,-0.9375 -4.33594,-1.40625 -2.08984,-0.46875 -3.94531,-0.46875 -1.99219,0 -2.96875,0.50781 -0.95703,0.48828 -0.95703,1.52344 0,0.83984 0.72265,1.28906 0.74219,0.44922 2.63672,0.66407 l 1.23047,0.17578 q 5.37109,0.68359 7.22656,2.24609 1.85547,1.5625 1.85547,4.90234 0,3.4961 -2.57812,5.25391 -2.57813,1.75781 -7.69532,1.75781 -2.16796,0 -4.49218,-0.35156 -2.30469,-0.33203 -4.7461,-1.01562 l 0,-5.3125 q 2.08985,1.01562 4.27735,1.52343 2.20703,0.50782 4.47265,0.50782 2.05078,0 3.08594,-0.56641 1.03516,-0.56641 1.03516,-1.67969 0,-0.9375 -0.72266,-1.38672 -0.70312,-0.46875 -2.83203,-0.72265 l -1.23047,-0.15625 q -4.66797,-0.58594 -6.54297,-2.16797 -1.875,-1.58203 -1.875,-4.80469 0,-3.47656 2.38281,-5.15625 2.38282,-1.67969 7.30469,-1.67969 1.9336,0 4.0625,0.29297 2.12891,0.29297 4.62891,0.91797 z"
+         style="font-weight:bold;letter-spacing:-1.31423914;-inkscape-font-specification:Bitstream Vera Sans Bold"
+         id="path4963"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 218.71701,229.65122 6.99219,0 0,21.875 -6.99219,0 0,-21.875 z m 0,-8.51563 6.99219,0 0,5.70313 -6.99219,0 0,-5.70313 z"
+         style="font-weight:bold;letter-spacing:-1.31423914;-inkscape-font-specification:Bitstream Vera Sans Bold"
+         id="path4965"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 246.03558,232.85434 0,-11.71875 7.03125,0 0,30.39063 -7.03125,0 0,-3.16407 q -1.44531,1.9336 -3.18359,2.83204 -1.73828,0.89843 -4.02344,0.89843 -4.04297,0 -6.64062,-3.20312 -2.59766,-3.22266 -2.59766,-8.28125 0,-5.0586 2.59766,-8.26172 2.59765,-3.22266 6.64062,-3.22266 2.26563,0 4.00391,0.91797 1.75781,0.89844 3.20312,2.8125 z m -4.60937,14.16016 q 2.24609,0 3.41797,-1.64063 1.1914,-1.64062 1.1914,-4.76562 0,-3.125 -1.1914,-4.76563 -1.17188,-1.64062 -3.41797,-1.64062 -2.22656,0 -3.41797,1.64062 -1.17188,1.64063 -1.17188,4.76563 0,3.125 1.17188,4.76562 1.19141,1.64063 3.41797,1.64063 z"
+         style="font-weight:bold;letter-spacing:-1.31423914;-inkscape-font-specification:Bitstream Vera Sans Bold"
+         id="path4967"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 258.27603,243.01059 0,-13.35937 7.03125,0 0,2.1875 q 0,1.77734 -0.0195,4.47265 -0.0195,2.67578 -0.0195,3.57422 0,2.63672 0.13672,3.8086 0.13672,1.15234 0.46875,1.67968 0.42969,0.6836 1.11328,1.05469 0.70312,0.37109 1.60156,0.37109 2.1875,0 3.4375,-1.67968 1.25,-1.67969 1.25,-4.66797 l 0,-10.80078 6.99219,0 0,21.875 -6.99219,0 0,-3.16407 q -1.58203,1.91407 -3.35937,2.83204 -1.75782,0.89843 -3.88672,0.89843 -3.78906,0 -5.78125,-2.32422 -1.97266,-2.32421 -1.97266,-6.75781 z"
+         style="font-weight:bold;letter-spacing:-1.31423914;-inkscape-font-specification:Bitstream Vera Sans Bold"
+         id="path4969"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 303.38757,230.33481 0,5.70313 q -1.42578,-0.97657 -2.87109,-1.44532 -1.42578,-0.46875 -2.96875,-0.46875 -2.92969,0 -4.57031,1.71875 -1.6211,1.69922 -1.6211,4.76563 0,3.0664 1.6211,4.78515 1.64062,1.69922 4.57031,1.69922 1.64062,0 3.10547,-0.48828 1.48437,-0.48828 2.73437,-1.44531 l 0,5.72266 q -1.64062,0.60546 -3.33984,0.89843 -1.67969,0.3125 -3.37891,0.3125 -5.91797,0 -9.25781,-3.02734 -3.33984,-3.04688 -3.33984,-8.45703 0,-5.41016 3.33984,-8.4375 3.33984,-3.04688 9.25781,-3.04688 1.71875,0 3.37891,0.3125 1.67969,0.29297 3.33984,0.89844 z"
+         style="font-weight:bold;letter-spacing:-1.31423914;-inkscape-font-specification:Bitstream Vera Sans Bold"
+         id="path4971"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 315.78427,223.44028 0,6.21094 7.20703,0 0,5 -7.20703,0 0,9.27734 c 0,1.01563 0.20182,1.70573 0.60547,2.07031 0.40365,0.35157 1.20443,0.52735 2.40234,0.52735 l 3.59375,0 0,5 -5.99609,0 c -2.76042,0 -4.72006,-0.57292 -5.87891,-1.71875 -1.14583,-1.15885 -1.71875,-3.11849 -1.71875,-5.87891 l 0,-9.27734 -3.47656,0 0,-5 3.47656,0 0,-6.21094 3.47261,0 z"
+         style="font-weight:bold;letter-spacing:-1.31423914;-inkscape-font-specification:Bitstream Vera Sans Bold"
+         id="path4973"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccscsccscsccccccc" />
+      <path
+         d="m 325.97394,229.65122 6.99219,0 0,21.875 -6.99219,0 0,-21.875 z m 0,-8.51563 6.99219,0 0,5.70313 -6.99219,0 0,-5.70313 z"
+         style="font-weight:bold;letter-spacing:-1.31423914;-inkscape-font-specification:Bitstream Vera Sans Bold"
+         id="path4975"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 348.81985,234.12387 q -2.32421,0 -3.55468,1.67969 -1.21094,1.66016 -1.21094,4.80469 0,3.14453 1.21094,4.82422 1.23047,1.66015 3.55468,1.66015 2.28516,0 3.4961,-1.66015 1.21094,-1.67969 1.21094,-4.82422 0,-3.14453 -1.21094,-4.80469 -1.21094,-1.67969 -3.4961,-1.67969 z m 0,-5 q 5.64454,0 8.8086,3.04688 3.18359,3.04687 3.18359,8.4375 0,5.39062 -3.18359,8.4375 -3.16406,3.04687 -8.8086,3.04687 -5.66406,0 -8.86718,-3.04687 -3.1836,-3.04688 -3.1836,-8.4375 0,-5.39063 3.1836,-8.4375 3.20312,-3.04688 8.86718,-3.04688 z"
+         style="font-weight:bold;letter-spacing:-1.31423914;-inkscape-font-specification:Bitstream Vera Sans Bold"
+         id="path4977"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 386.58765,238.2059 0,13.32032 -7.03125,0 0,-2.16797 0,-8.02735 q 0,-2.83203 -0.13672,-3.90625 -0.11719,-1.07421 -0.42969,-1.58203 -0.41016,-0.68359 -1.11328,-1.05468 -0.70313,-0.39063 -1.60156,-0.39063 -2.1875,0 -3.4375,1.69922 -1.25,1.67969 -1.25,4.66797 l 0,10.76172 -6.99219,0 0,-21.875 6.99219,0 0,3.20312 q 1.58203,-1.91406 3.35937,-2.8125 1.77735,-0.91797 3.92578,-0.91797 3.78907,0 5.74219,2.32422 1.97266,2.32422 1.97266,6.75781 z"
+         style="font-weight:bold;letter-spacing:-1.31423914;-inkscape-font-specification:Bitstream Vera Sans Bold"
+         id="path4979"
+         inkscape:connector-curvature="0" />
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3088-6"
+       width="228.9939"
+       height="228.9939"
+       x="326.08469"
+       y="-208.28607"
+       ry="9.0197201"
+       rx="9.0197201"
+       transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
+       inkscape:export-filename="/home/xweber/daten/siduction.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3937"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="matrix(1.2171485,0,0,1.2171485,-2.2949151,-172.609)"
+       inkscape:export-filename="/home/xweber/daten/siduction.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><flowRegion
+         id="flowRegion3939"><rect
+           id="rect3941"
+           width="261.42856"
+           height="102.85714"
+           x="250.71428"
+           y="354.50504" /></flowRegion><flowPara
+         id="flowPara3943">ahead</flowPara></flowRoot>    <g
+       id="g4953"
+       inkscape:export-filename="/home/xweber/daten/siduction.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"
+       transform="translate(32.857143,-68.571429)">
+      <path
+         style="font-size:xx-small;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         d="m 344.99992,193.60268 -6.29035,8.14472 -0.0805,0 0,0.1152 -24.75815,32.04102 18.89273,0 0,29.96468 24.30823,0 0,-29.96468 19.05729,0 -24.59685,-31.84893 0,-0.30735 -0.24179,0 z"
+         id="path3949"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccccc" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,261 @@
+Source: siduction-art-indiansummer
+Section: graphics
+Priority: extra
+Maintainer: Alf Gaida <agaida@siduction.org>
+Build-Depends: debhelper (>= 9),
+ inkscape,
+ imagemagick,
+ perl,
+ perlmagick,
+ libxml-parser-perl,
+ fonts-droid,
+Standards-Version: 3.9.5
+Vcs-Git: git://git.siduction.org/packages/siduction-repository/siduction-art-foo.git
+Vcs-Browser: http://git.siduction.org/packages/siduction-repository/siduction-art-foo.git
+
+Package: siduction-art-cinnamon-indiansummer
+Architecture: all
+Provides:
+ siduction-art-cinnamon-theme
+Pre-Depends:
+ grub-theme-siduction-indiansummer,
+ siduction-art-wallpaper-indiansummer,
+Depends:
+ ${misc:Depends},
+ siduction-icons,
+Recommends:
+ dmz-cursor-theme
+Description: Cinnamon theme for the siduction 2014.1.0 release
+ release specific metapackage depending on icons and wallpapers to be
+ used in combination with the Cinnamon  Desktop Environment.
+
+Package: siduction-art-gnome-indiansummer
+Architecture: all
+Provides:
+ siduction-art-gnome-theme
+Pre-Depends:
+ grub-theme-siduction-indiansummer,
+ siduction-art-wallpaper-indiansummer,
+Depends:
+ ${misc:Depends},
+ siduction-icons,
+Recommends:
+ dmz-cursor-theme
+Description: Gnome theme for the siduction 2014.1.0 release
+ release specific metapackage depending on icons and wallpapers to be
+ used in combination with the Gnome Desktop Environment.
+ .
+ Gnome artwork metapackage for: siduction 2014.1.0 (IndianSummer)
+
+Package: siduction-art-kde-indiansummer
+Architecture: all
+Provides:
+ siduction-art-kde-theme
+Pre-Depends:
+ grub-theme-siduction-indiansummer,
+ siduction-art-ksplash-indiansummer,
+ siduction-art-wallpaper-indiansummer,
+Depends:
+ ${misc:Depends},
+ siduction-icons,
+Recommends:
+ dmz-cursor-theme
+Description: KDE theme for the siduction 2014.1.0 release
+ release specific metapackage depending on ksplash, kdm and KDE themes to be
+ used in combination with the K Desktop Environment. This package also
+ provides a release specific color scheme for KDE.
+ .
+ KDE artwork metapackage for: siduction 2014.1.0 (IndianSummer)
+
+Package: siduction-art-kdm-indiansummer
+Architecture: all
+Pre-Depends:
+ kdm
+Depends:
+ ${misc:Depends},
+Description: KDM theme for the siduction 2014.1.0 release
+ release specific artwork theme for the KDM display manager to be used in
+ combination with the K Desktop Environment.
+ .
+ KDM artwork for: siduction 2014.1.0 (IndianSummer)
+ .
+ This package does not override existing theme configurations and needs to be
+ selected manually.
+
+Package: siduction-art-ksplash-indiansummer
+Architecture: all
+Pre-Depends: 
+ kdebase-workspace-bin,
+Depends:
+ ${misc:Depends},
+Description: KDE ksplash theme for the siduction 2014.1.0 release
+ release specific KDE ksplash theme, using the default ksplash engine.
+ .
+ KDE ksplash artwork for: siduction 2014.1.0 (IndianSummer)
+ .
+ This package does not override existing theme configurations and needs to be
+ selected manually.
+ 
+Package: siduction-art-lightdm-kde-indiansummer
+Architecture: all
+Pre-Depends:
+ lightdm-kde-greeter
+Depends:
+ ${misc:Depends}
+Description: lightdm-kde-greeter theme for the siduction 2014.1.0 release
+ release specific artwork theme for the light display manager to be used in
+ combination with the lightDM kde greeter.
+ .
+ lightdm-kde artwork for: siduction 2014.1.0 (IndianSummer)
+ .
+ This package does not override existing theme configurations and needs to be
+ selected manually.
+
+Package: siduction-art-lightdm-indiansummer
+Architecture: all
+Pre-Depends:
+ lightdm
+Depends:
+ ${misc:Depends}
+Description: lightdm theme for the siduction 2014.1.0 release
+ release specific artwork theme for the light display manager to be used in
+ combination with the razorqt or xfce.
+ .
+ lightdm artwork for: siduction 2014.1.0 (IndianSummer)
+ .
+ This package does not override existing theme configurations and needs to be
+ selected manually.
+
+Package: siduction-art-lxde-indiansummer
+Architecture: all
+Provides:
+ siduction-art-lxde-theme
+Pre-Depends:
+ grub-theme-siduction-indiansummer,
+ siduction-art-wallpaper-indiansummer,
+Depends:
+ ${misc:Depends},
+ siduction-icons,
+Recommends:
+ dmz-cursor-theme,
+Description: LXDE theme for the siduction 2014.1.0 release
+ release specific metapackage depending on Art-Wallpaper
+ to be used in combination with the LXDE desktop environment.
+ .
+ LXDE artwork metapackage for: siduction 2014.1.0 (IndianSummer)
+
+Package: siduction-art-lxqt-indiansummer
+Architecture: all
+Provides:
+ siduction-art-lxqt-theme
+Pre-Depends:
+ grub-theme-siduction-indiansummer,
+ lxqt-common-qt5,
+ siduction-art-wallpaper-indiansummer,
+Depends:
+ ${misc:Depends},
+ siduction-icons,
+Description: LXQt theme for the siduction 2014.1.0 release
+ release specific metapackage depending on Art-Wallpaper.
+ .
+ LXQt artwork metapackage for: siduction 2014.1.0 (IndianSummer)
+
+Package: siduction-art-mate-indiansummer
+Architecture: all
+Provides:
+ siduction-art-mate-theme
+Pre-Depends:
+ grub-theme-siduction-indiansummer,
+ siduction-art-wallpaper-indiansummer,
+Depends:
+ ${misc:Depends},
+ siduction-icons,
+Recommends:
+ dmz-cursor-theme
+Description: Mate theme for the siduction 2014.1.0 release
+ release specific metapackage depending on icons and wallpapers to be
+ used in combination with the Mate Desktop Environment.
+ .
+ Mate artwork metapackage for: siduction 2014.1.0 (IndianSummer)
+
+Package: siduction-art-wallpaper-indiansummer
+Architecture: all
+Provides:
+ siduction-art-wallpaper-theme
+Depends:
+ ${misc:Depends}
+Description: siduction wallpaper for the 2014.1.0 release
+ release specific wallpapers, compatible with the GNOME, NOX, LXDE,
+ RQT, XFCE.
+ .
+ Wallpapers for: siduction 2014.1.0 (IndianSummer)
+ .
+ This package does not override existing theme configurations and needs to be
+ selected manually.
+
+# Package: siduction-art-nox-indiansummer
+# Architecture: all
+# Provides:
+#  siduction-art-nox-theme
+# Depends:
+#   ${misc:Depends},
+#   siduction-art-wallpaper-indiansummer,
+# Description: NOX theme for the siduction 2014.1.0 release
+# release specific metapackage depending on Art-Wallpaper.
+# .
+# NOX artwork metapackage for: siduction 2014.1.0 (IndianSummer)
+
+Package: siduction-art-rqt-indiansummer
+Architecture: all
+Provides:
+ siduction-art-rqt-theme
+Pre-Depends:
+ grub-theme-siduction-indiansummer,
+ siduction-art-wallpaper-indiansummer,
+Depends:
+ ${misc:Depends},
+ siduction-icons,
+Description: RQT theme for the siduction 2014.1.0 release
+ release specific metapackage depending on Art-Wallpaper.
+ .
+ RQT artwork metapackage for: siduction 2014.1.0 (IndianSummer)
+
+Package: siduction-art-xfce-indiansummer
+Architecture: all
+Provides:
+ siduction-art-xfce-theme
+Pre-Depends: 
+ grub-theme-siduction-indiansummer,
+ siduction-art-xsplash-indiansummer,
+ siduction-art-wallpaper-indiansummer,
+Depends:
+ ${misc:Depends},
+ siduction-icons,
+Recommends:
+ dmz-cursor-theme
+Description: Xfce theme for the siduction 2014.1.0 release
+ release specific metapackage depending on xfce4-session, gdm3 and Xfce themes
+ to be used in combination with the Xfce desktop environment.
+ .
+ Xfce artwork metapackage for: siduction 2014.1.0 (IndianSummer)
+
+Package: siduction-art-xsplash-indiansummer
+Architecture: all
+Pre-Depends:
+ xfce4-session,
+Depends:
+ ${misc:Depends},
+Description: Xfce splash theme for the siduction 2014.1.0 release
+ release specific Xfce splash theme, based on the balou theme engine.
+ .
+ Xfce xsplash artwork for: sidcution 2014.1.0 (IndianSummer)
+ .
+ This package does not override existing theme configurations and needs to be
+ selected manually.
+
+Package: grub-theme-siduction-indiansummer
+Architecture: all
+Depends:
+ ${misc:Depends},
+Description: grub-theme for siduction 2014.1.0 release
+ mostly copy from grub-sources

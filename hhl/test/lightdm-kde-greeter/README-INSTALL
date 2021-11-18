@@ -1,0 +1,39 @@
+READ THIS CAREFULLY!
+
+1. Install lightdm-kde-greeter, apt-get install lightdm-kde-greeter.
+
+2. Copy the "<theme>" folder to /usr/share/kde4/apps/lightdm-kde-greeter/themes/ (cp <theme> /usr/.....)
+
+3. Copy  the lightdm-kde-greeter.conf, you find it in conf-<theme>/ to /etc/lightdm/
+
+Don't forget to backup the orginal /etc/lightdm/lightdm-kde-greeter.conf, like
+mv /etc/lightdm/lightdm-kde-greeter.conf /etc/lightdm/lightdm-kde-greeter.conf.orig!!!!!!
+
+4. Open the kde-systemsettings and choose the lightdm-theme Siduction-indiansummer
+ 
+5. For to test it befor using it you can run  the following command,
+do it as $user: dm-tool add-nested-seat or: /usr/sbin/lightdm --test-mode
+(you need xserver-xephyr installed), this works fine with all lightdm versions.
+
+If all working fine, enjoy it.
+
+Ps.: If you want that lightdm speak your language, you need to generate a foo.mo file and copy the foo.mo file to its right place!
+
+Go to po/<country>/ like 'cd /foo/bar/lightdm-kde-greeter/po/<country>/' 
+
+(you need to have getext installed, apt-get install getext)
+
+msgfmt lightdm_theme_<theme>.po -o lightdm_theme_<theme>.mo
+
+in your <country> dir
+
+then as #root, 
+
+copy the lightdm_theme_<theme>.mo file to /usr/share/locale/<country>/LC_MESSAGES with
+
+cp lightdm_theme_<theme>.mo `kde4-config --prefix`/share/locale/<country>/LC_MESSAGES
+
+do it with both files in po/<country>/*
+
+Test it like described above.
+

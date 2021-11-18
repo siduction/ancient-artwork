@@ -1,0 +1,13 @@
+first drafst for the desperado-release
+
+dm-kdm:  copy  siduction-desperado to /usr/share/kde4/apps/kdm/themes/
+to test it
+
+splash-xfce: copy siduction-desperado/balou /usr/share/themes/Default/
+to test it
+
+wallpaper: its your choise you find them here siduction-desperado/contents/images
+to see how its look
+
+splash-kde, first draft: copy siduction-desperado to .kde/share/apps/ksplash/Themes/
+to test it

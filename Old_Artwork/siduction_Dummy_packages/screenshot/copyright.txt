@@ -1,0 +1,12 @@
+Copyright: © 2011 Sven Strohmeier {se7enelven at gmail dot com} 
+	         © 2011 Hendrik Lehmbruch {hlehmbruch at gmx dot net}
+           © 2011 Alexander Weber {xweber.alex at googlemail dot com}
+           		
+	         All works published under following license
+
+           License: CC-BY-SA 3.0
+           Licensed under the Creative Common Attribution-Share-Alike 3.0
+           license, as found here:
+           
+           (EN) http://creativecommons.org/licenses/by-sa/3.0
+           (DE) http://creativecommons.org/licenses/by-sa/3.0/de/

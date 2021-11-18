@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="1220"
+   height="1220"
+   id="svg2"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="hotunsiduc.svg">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3191">
+      <stop
+         style="stop-color:#4c4c4c;stop-opacity:1;"
+         offset="0"
+         id="stop3193" />
+      <stop
+         style="stop-color:#b3b3b3;stop-opacity:1"
+         offset="1"
+         id="stop3195" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3137">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3139" />
+      <stop
+         style="stop-color:#999999;stop-opacity:1"
+         offset="1"
+         id="stop3141" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2999">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3001" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop3003" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2999"
+       id="radialGradient3005"
+       cx="600"
+       cy="600"
+       fx="600"
+       fy="600"
+       r="605"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.18028746,1.6088226,-2.0648853,-0.23144207,1947.1038,-226.42836)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3137"
+       id="radialGradient3143"
+       cx="1071.0797"
+       cy="655.42804"
+       fx="1071.0797"
+       fy="655.42804"
+       r="600"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.02625651,0.97146469,-1.0097814,-0.02729129,1281.988,-414.65475)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3191"
+       id="radialGradient3201"
+       cx="628.69153"
+       cy="561.06989"
+       fx="628.69153"
+       fy="561.06989"
+       r="141.32648"
+       gradientTransform="matrix(-0.90224004,0.9488133,-0.91877035,-0.87367124,1688.738,507.66671)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1024"
+     inkscape:window-height="718"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="0.25081967"
+     inkscape:cx="233.2353"
+     inkscape:cy="610.00001"
+     inkscape:window-x="-2"
+     inkscape:window-y="13"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <g
+     transform="translate(10,10)"
+     id="g4">
+    <path
+       d="m 0,600 a 600,600 0 1 1 1200,0 600,600 0 1 1 -1200,0 z m 450,0 a 150,150 0 1 0 300,0 150,150 0 1 0 -300,0 z"
+       id="path6"
+       style="fill:url(#radialGradient3143);fill-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m -5,600 a 605,605 0 1 0 1210,0 605,605 0 1 0 -1210,0 z m 10,0 a 375,375 0 1 0 750,0 155,155 0 1 0 -310,0 375,375 0 1 1 750,0 595,595 0 1 1 -1190,0 z m 450,0 a 145,145 0 1 1 290,0 145,145 0 1 1 -290,0 z"
+       id="path8"
+       style="fill:url(#radialGradient3005);fill-opacity:1"
+       inkscape:connector-curvature="0" />
+  </g>
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot3127"
+     style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Dustismo;-inkscape-font-specification:Sans Bold"><flowRegion
+       id="flowRegion3129"><rect
+         id="rect3131"
+         width="1160.196"
+         height="123.59477"
+         x="243.20262"
+         y="1012.6797" /></flowRegion><flowPara
+       id="flowPara3133" /></flowRoot>  <path
+     style="fill:url(#radialGradient3201);fill-opacity:1"
+     d="m 573.71895,747.14177 c -26.57883,-8.42784 -46.9631,-20.60995 -64.96888,-38.82691 -48.84402,-49.41687 -54.09907,-125.16047 -12.65309,-182.37499 48.60927,-67.10314 146.77017,-76.75244 208.34108,-20.48009 30.53888,27.91081 44.33997,57.31537 46.08845,98.19591 1.15459,26.99482 -0.1994,36.24583 -8.20627,56.06886 -12.13375,30.04014 -27.62582,49.64081 -53.2668,67.39349 -33.67589,23.31572 -79.73434,31.31213 -115.33449,20.02373 z"
+     id="path3189"
+     inkscape:connector-curvature="0" />
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot3154"
+     style="font-size:55.2868576px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Dustismo;-inkscape-font-specification:Sans Bold"
+     transform="matrix(1.1097261,0,0,1.5282886,-41.349353,-1066.7909)"
+     inkscape:transform-center-y="-28.467309"><flowRegion
+       id="flowRegion3156"><rect
+         id="rect3158"
+         width="837.25488"
+         height="119.60784"
+         x="478.43137"
+         y="1060.5228"
+         style="font-size:55.2868576px" /></flowRegion><flowPara
+       id="flowPara3160">siduction</flowPara></flowRoot></svg>

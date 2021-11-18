@@ -1,0 +1,6 @@
+The location where to place the new pattern-file, patterns.svg, is /usr/share/inkscape/patterns/*
+
+Please, before replacing the new patterns.svg file, make a backup of the original patterns.svg file.
+
+If you make a mistake and run into trouble, you can restore it.
+If you loose your original file, you have a backup stored here, called patterns-orig.svg

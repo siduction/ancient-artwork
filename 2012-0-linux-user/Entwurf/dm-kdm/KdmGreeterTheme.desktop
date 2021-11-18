@@ -1,0 +1,10 @@
+# This is not really a .desktop file like the rest, but it is useful to treat
+# it as such
+
+[KdmGreeterTheme]
+Greeter=siduction-onestepbeyond-lu-edition.xml
+Name=siduction-kdm-onestepbeyond-lu-edition
+Author=siduction art team
+Copyright=CC-by-S-A 3.0 2011
+Screenshot=screenshot.png
+

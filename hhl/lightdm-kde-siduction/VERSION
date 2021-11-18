@@ -1,0 +1,6 @@
+#!/bin/bash
+
+NAME=indiansummer
+DISPLAY='Indian Summer'
+DESCRIPTION=IndianSummer
+VERSION=2014.1.0

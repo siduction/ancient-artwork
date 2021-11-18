@@ -1,0 +1,18 @@
+#Name=siduction-ksplash 11.0.5
+#Author=siduction art team
+#Copyright=CC-by-S-A 3.0 2011
+#Screenshot=Preview.png
+
+SCALE ON
+BACKGROUND_IMAGE 0 0 background.png
+SCALE OFF
+
+#WAIT_STATE initial
+IMAGE_REL CC 0 -45 CC 2.png
+WAIT_STATE kcminit
+IMAGE_REL CC 195 45 CC 3.png
+WAIT_STATE wm
+IMAGE_REL CC 390 70 CC 4.png
+WAIT_STATE desktop
+IMAGE_REL CC 620 170 CC 3.png
+WAIT_STATE ready

@@ -1,0 +1,32 @@
+File:      *
+Copyright: 2011-2012 Sven Strohmeier <se7enelven at gmail dot com> 
+           2011-2012 Hendrik Lehmbruch <hlehmbruch at gmx dot net>
+           2011      Tom Wroblewski <GoinEasy9 at linux dot com>
+           2011      Markus Meyer <coruja at siduction dot org>
+License: CC-BY-SA 3.0
+ Creative Commons Attribution-ShareAlike 3.0 Unported License
+ .
+ THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS CREATIVE
+ COMMONS PUBLIC LICENSE ("CCPL" OR "LICENSE"). THE WORK IS PROTECTED BY
+ COPYRIGHT AND/OR OTHER APPLICABLE LAW. ANY USE OF THE WORK OTHER THAN AS
+ AUTHORIZED UNDER THIS LICENSE OR COPYRIGHT LAW IS PROHIBITED.
+ .
+ BY EXERCISING ANY RIGHTS TO THE WORK PROVIDED HERE, YOU ACCEPT AND AGREE
+ TO BE BOUND BY THE TERMS OF THIS LICENSE. TO THE EXTENT THIS LICENSE MAY
+ BE CONSIDERED TO BE A CONTRACT, THE LICENSOR GRANTS YOU THE RIGHTS
+ CONTAINED HERE IN CONSIDERATION OF YOUR ACCEPTANCE OF SUCH TERMS AND
+ CONDITIONS.
+ .
+ You should have received a copy of the license along with this
+ work.  If not, see <http://creativecommons.org/licenses/by-sa/3.0/>.
+ .
+ On siduction systems, the complete text of the Creative Commons
+ Attribution-ShareAlike 3.0 Unported License  can be found in
+ "/usr/share/creativecommons/3.0/cc-by-sa-3.0".
+ .
+ (EN) http://creativecommons.org/licenses/by-sa/3.0
+ (DE) http://creativecommons.org/licenses/by-sa/3.0/de/
+
+
+
+

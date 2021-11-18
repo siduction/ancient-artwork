@@ -1,0 +1,8 @@
+[KSplash Theme: sidduction-1st]
+# Theme behaviour settings.
+Engine = KSplashX
+Greeter=siduction-11.0.5.xml
+Name=siduction-kspash 11.0.5
+Author=siduction art team
+Copyright=CC-by-S-A 3.0 2011
+Screenshot=Preview.png

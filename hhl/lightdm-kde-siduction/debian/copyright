@@ -1,0 +1,223 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: siduction-art-august
+Upstream-Contact: Alf Gaida <agaida@siduction.org>
+
+Files: *
+Copyright: 2011-2014 Alf Gaida <agaida@siduction.org>
+           2011-2013 Hendrik Lehmbruch <hlehmbruch@gmx.net>
+           2010-2011 Rick Battle <rick.battle@celtrenicdesigns.com>
+           2007-2010 Bernard Gray <bernard.gray@gmail.com>
+           2007-2011 Stefan Lippers-Hollmann <s.l-h@gmx.de>
+           2009 David Creedy <djcreedy@iinet.net.au>
+License: GPL-2.0+
+
+Files: SVG/*
+Copyright: 2011-2014 Alf Gaida <agaida@siduction.org>
+           2011-2013 Sven Strohmeier <se7en@siduction.net>
+           2011-2013 Hendrik Lehmbruch <hendrikl@siduction.org>
+           2011      Alexander Weber <xweber.alex@googlemail.com>
+           2011      Tom Wroblewski <GoinEasy9@linux.com>
+           2011      Markus Meyer <coruja@siduction.org>
+License: CC-BY-SA-3.0
+
+Files: splash-kde/*
+Copyright: 2013-2014 Alf Gaida <agaida@siduction.org>
+           2013 Hendrik Lehmbruch <hendrikl@siduction.org>
+           2011-2012 Sven Strohmeier <se7en@siduction.net>
+License: CC-BY-SA-3.0 or GPL-2.0+
+
+Files:splash-kde/Makefile
+Copyright: 2011-2013 Hendrik Lehmbruch <hlehmbruch@gmx.net>
+           2011-2014 Alf Gaida <agaida@siduction.org>
+           2010-2011 Rick Battle <rick.battle@celtrenicdesigns.com>
+           2007-2010 Bernard Gray <bernard.gray@gmail.com>
+	       2007-2011 Stefan Lippers-Hollmann <s.l-h@gmx.de>
+	       2009 David Creedy <djcreedy@iinet.net.au>
+License: GPL-2.0+
+
+Files: splash-xfce/themerc
+Copyright: 2011-2014 Alf Gaida <agaida@siduction.org>
+           2011-2013 Hendrik Lehmbruch <hlehmbruch@gmx.net>
+           2010 David Creedy <djcreedy@iinet.net.au>
+           2010 Bernard Gray <bernard.gray@gmail.com>
+           2010-2011 Rick Battle <rick.battle@solmera.com>
+License: LGPL-2.0+
+
+Files: lightdm-kde/themes/*
+Copyright: 2011-2012 David Edmundson <kde@davidedmundson.co.uk>
+License: GPL-3+
+
+Files: lightdm-kde/themes/*/private/*
+Copyright: 2011 Daker Fernandes Pinheiro <dakerfp@gmail.com>
+           2011 Marco Martin <mart@kde.org>
+License: LGPL-2+
+
+Files: lightdm-kde/themes/*/DateTimeLabel.qml
+Copyright: 2013 Harald Sitter <sitter@kde.org>
+License: GPL-3.0+
+
+Files: lightdm-kde/themes/*/DateTimeLabel.qml
+	   lightdm-kde/themes/*/ShadowText.qml
+	   lightdm-kde/themes/*/WelcomeLabel.qml
+Copyright: 2013 Harald Sitter <sitter@kde.org>
+		   2014 Hendrik Lehmbruch <hendrikL@siduction.org>
+License: GPL-3.0+
+
+Files: lightdm-kde/themes/*/TextField.qml
+Copyright: 2011 Fernandes Pinheiro <dakerfp@gmail.com>
+License: GPL-2.0+
+
+Files: lightdm-kde/themes/*/ToolButton.qml
+Copyright: 2011 Daker Fernandes Pinheiro <dakerfp@gmail.com>
+		   2011 Marco Martin <mart@kde.org>
+
+Files: lightdm-kde/themes/*/IconButton.qml
+Copyright: 2011-2012 David Edmundson <kde@davidedmundson.co.uk>
+		   2014 Hendrik Lehmbruch <hendrikL@siduction.org>
+License: GPL-3.0+		   
+
+Files: theme-grub/template/
+Copyright: 2012  Free Software Foundation, Inc
+License: CC-BY-SA-3.0
+
+Files: /theme-grub/template/theme.txt
+Copyright: 2011  Daniel Tschudi
+License: Expat
+
+Files: debian/*
+Copyright: 2011-2014 Alf Gaida <agaida@siduction.org>
+           2007-2010 Stefan Lippers-Hollmann <s.l-h@gmx.de>
+           2007-2009 Bernard Gray <bernard.gray@gmail.com>
+License: GPL-2.0
+
+License: GPL-2.0
+ This package is free software; you can redistribute it and/or modify
+ it under the terms of the GNU General Public License version 2 as
+ published by the Free Software Foundation.
+ .
+ This package is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this package; if not, write to the Free Software
+ Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301 USA
+ .
+ On Debian systems, the complete text of the GNU General
+ Public License can be found in '/usr/share/common-licenses/GPL-2'.
+
+License: GPL-2.0+
+ This package is free software; you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation; either version 2 of the License, or
+ (at your option) any later version.
+ .
+ This package is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this program. If not, see <http://www.gnu.org/licenses/>
+ .
+ On Debian systems, the complete text of the GNU General
+ Public License version 2 can be found in "/usr/share/common-licenses/GPL-2".
+ 
+License: GPL-3+
+ LightDM-KDE is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ .
+ LightDM-KDE is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with LightDM-KDE.  If not, see <http://www.gnu.org/licenses/>.
+ .
+ On Debian systems, the complete text of the GNU General
+ Public License version 3 can be found in "/usr/share/common-licenses/GPL-3".
+
+License: CC-BY-SA-3.0
+ Creative Commons Attribution-ShareAlike 3.0 Unported License
+ .
+ THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS CREATIVE
+ COMMONS PUBLIC LICENSE ("CCPL" OR "LICENSE"). THE WORK IS PROTECTED BY
+ COPYRIGHT AND/OR OTHER APPLICABLE LAW. ANY USE OF THE WORK OTHER THAN AS
+ AUTHORIZED UNDER THIS LICENSE OR COPYRIGHT LAW IS PROHIBITED.
+ .
+ BY EXERCISING ANY RIGHTS TO THE WORK PROVIDED HERE, YOU ACCEPT AND AGREE
+ TO BE BOUND BY THE TERMS OF THIS LICENSE. TO THE EXTENT THIS LICENSE MAY
+ BE CONSIDERED TO BE A CONTRACT, THE LICENSOR GRANTS YOU THE RIGHTS
+ CONTAINED HERE IN CONSIDERATION OF YOUR ACCEPTANCE OF SUCH TERMS AND
+ CONDITIONS.
+ .
+ You should have received a copy of the license along with this
+ work.  If not, see <http://creativecommons.org/licenses/by-sa/3.0/>.
+ .
+ On Debian systems, the complete text of the Creative Commons
+ Attribution-ShareAlike 3.0 Unported License  can be found in
+ "/usr/share/creativecommons/3.0/cc-by-sa-3.0".
+
+License: LGPL-2.0+
+ GNU Library General Public License (with following clarification).
+ .
+ This library is free software; you can redistribute it and/or
+ modify it under the terms of the GNU Library General Public
+ License as published by the Free Software Foundation; either
+ version 2 of the License, or (at your option) any later version.
+ .
+ This library is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ Library General Public License for more details.
+ .
+ You should have received a copy of the GNU Library General Public
+ License along with this library; if not, write to the Free Software
+ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston MA  02110-1301 USA
+ .
+ Clarification:
+ .
+ The GNU Lesser General Public License or LGPL is written for
+ software libraries in the first place. We expressly want the LGPL to
+ be valid for this artwork library too.
+ .
+ KDE Oxygen theme icons is a special kind of software library, it is an
+ artwork library, it's elements can be used in a Graphical User Interface, or
+ GUI.
+ .
+ Source code, for this library means:
+  - where they exist, SVG;
+  - otherwise, if applicable, the multi-layered formats xcf or psd, or
+ otherwise png.
+ .
+ The LGPL in some sections obliges you to make the files carry
+ notices. With images this is in some cases impossible or hardly useful.
+ .
+ With this library a notice is placed at a prominent place in the directory
+ .
+ On Debian systems, the complete text of the GNU Lesser General
+ Public License can be found in '/usr/share/common-licenses/LGPL-2'.
+
+License: Expat
+ Permission is hereby granted, free of charge, to any person obtaining a copy
+ of this software and associated documentation files (the "Software"), to deal
+ in the Software without restriction, including without limitation the rights
+ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ copies of the Software, and to permit persons to whom the Software is
+ furnished to do so, subject to the following conditions:
+ .
+ The above copyright notice and this permission notice shall be included in
+ all copies or substantial portions of the Software.
+ .
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ THE SOFTWARE.
+
